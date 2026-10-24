@@ -212,6 +212,7 @@ Method and caveats are written up on [the wiki](https://paperswithbacktest.com/w
 | [PyTrendFollow](https://github.com/chrism2671/PyTrendFollow) `dormant since 2018-04` | PyTrendFollow - systematic futures trading using trend following | ![GitHub stars](https://badgen.net/github/stars/chrism2671/PyTrendFollow) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [TradeSight](https://github.com/rmbell09-lang/tradesight) | AI-powered algorithmic trading platform with RSI/MACD signals, overnight strategy tournaments, paper trading via Alpaca, multi-stock scanning, and web dashboard | ![GitHub stars](https://badgen.net/github/stars/rmbell09-lang/tradesight) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [PRISM-INSIGHT](https://github.com/dragon1086/prism-insight) | AI-powered stock analysis with 13 specialized agents, automated trading via KIS API (Korean & US markets) | ![GitHub stars](https://badgen.net/github/stars/dragon1086/prism-insight) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
+| [Nyria](https://github.com/Nyria-LLC/trading-alert-automation) | Turns TradingView, TrendSpider, Discord and Telegram alerts into orders at Schwab, Tradier, tastytrade and Alpaca; free paper trading | ![GitHub stars](https://badgen.net/github/stars/Nyria-LLC/trading-alert-automation) | ![made-with-webhooks](https://img.shields.io/badge/Made%20with-Webhooks-1f425f.svg) |
 
 ## Analytics
 
